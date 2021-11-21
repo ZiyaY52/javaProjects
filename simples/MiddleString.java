@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LearnJava {
+public class MiddleString {
 
 	public static String StringReturner(String str) {
 		char ch;
